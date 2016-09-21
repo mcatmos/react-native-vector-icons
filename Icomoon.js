@@ -7,6 +7,10 @@ import createIconSet from './lib/create-icon-set';
 const glyphMap = {
   "shuffle": 59648,
   "playlist": 59685,
+  "thunder": 59688,
+  "mic": 59687,
+  "movistar": 59686,
+  "fullHeart": 59689,
   "album": 59684,
   "video": 59683,
   "pause": 59682,
