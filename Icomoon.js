@@ -29,6 +29,10 @@ const glyphMap = {
   "home": 59657,
   "heart": 59658,
   "share": 59659,
+  "ticketsAvailable": 59691,
+  "ticketsSoldOut": 59692,
+  "ticketPurchased": 59693,
+
 };
 
 let Icomoon = createIconSet(glyphMap, 'icomoon', 'Icomoon.ttf');
