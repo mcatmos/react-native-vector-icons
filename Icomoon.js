@@ -5,7 +5,7 @@
 
 import createIconSet from './lib/create-icon-set';
 const glyphMap = {
-  "shuffle": 59648,
+  "shuffle": 59678,
   "playlist": 59685,
   "thunder": 59688,
   "mic": 59687,
