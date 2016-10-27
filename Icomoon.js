@@ -32,6 +32,23 @@ const glyphMap = {
   "ticketsAvailable": 59691,
   "ticketsSoldOut": 59692,
   "ticketPurchased": 59693,
+  "metal": 59648,
+  "indie": 59661,
+  "acustico": 59663,
+  "pop": 59664,
+  "rock": 59666,
+  "experimental": 59671,
+  "jazz": 59672,
+  "blues": 59675,
+  "soul": 59676,
+  "ambient": 59690,
+  "electronica": 59660,
+  "punk": 59662,
+  "disco": 59665,
+  "hiphop": 59667,
+  "reggae": 59668,
+  "latino": 59669,
+  "alternativo": 59670
 
 };
 
@@ -39,4 +56,3 @@ let Icomoon = createIconSet(glyphMap, 'icomoon', 'Icomoon.ttf');
 
 module.exports = Icomoon;
 module.exports.glyphMap = glyphMap;
-
