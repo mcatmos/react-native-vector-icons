@@ -48,7 +48,8 @@ const glyphMap = {
   "hiphop_rap": 59667,
   "reggae": 59668,
   "latino": 59669,
-  "alternativo": 59670
+  "alternativo": 59670,
+  "tango": 59694
 
 };
 
