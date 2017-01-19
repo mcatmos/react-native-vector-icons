@@ -49,8 +49,11 @@ const glyphMap = {
   "reggae": 59668,
   "latino": 59669,
   "alternativo": 59670,
-  "tango": 59694
-
+  "tango": 59694,
+  "cumbiaFusion": 59697,
+  "radio": 59696,
+  "thumbDown": 59695,
+  "thumbUp": 59698
 };
 
 let Icomoon = createIconSet(glyphMap, 'icomoon', 'Icomoon.ttf');
