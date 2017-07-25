@@ -2,7 +2,7 @@
  * Icomoon icon set component.
  * Usage: <Icomoon name="icon-name" size={20} color="#4F8EF7" />
  */
- 
+
 import createIconSet from './lib/create-icon-set';
 const glyphMap = {
   "shuffle": 59678,
@@ -53,7 +53,8 @@ const glyphMap = {
   "cumbiaFusion": 59697,
   "radio": 59696,
   "thumbDown": 59695,
-  "thumbUp": 59698
+  "thumbUp": 59698,
+  "Icono-CAR": 59699
 };
 
 let Icomoon = createIconSet(glyphMap, 'icomoon', 'Icomoon.ttf');
