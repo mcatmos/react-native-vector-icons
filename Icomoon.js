@@ -54,7 +54,8 @@ const glyphMap = {
   "radio": 59696,
   "thumbDown": 59695,
   "thumbUp": 59698,
-  "Icono-CAR": 59699
+  "Icono-CAR": 59699,
+  "Icono-Abbey": 59700
 };
 
 let Icomoon = createIconSet(glyphMap, 'icomoon', 'Icomoon.ttf');
